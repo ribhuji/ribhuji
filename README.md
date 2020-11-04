@@ -1,5 +1,5 @@
-<h1 align="center">Hi I'm Ribhu</h1>
-<h3 align="center">a backend developer from India</h3>
+<h1 align="left">Hi 👋 ,I'm Ribhu </h1>
+<h3 align="left">a backend developer from India</h3>
 
 - I’m currently working on [delete-null](https://github.com/ribhuji/deleteNull)
 
