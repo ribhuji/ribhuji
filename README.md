@@ -3,7 +3,7 @@
 
 - I’m currently working on [delete-null](https://github.com/ribhuji/deleteNull)
 
-- All of my projects are available at [https://ribhuji.github.io/ribhu/](https://ribhuji.github.io/ribhu/)
+- All of my projects are available at [ribhuratnam.me](https://ribhuratnam.me)
 
 - You can ask me about **Node, MongoDB**
 
