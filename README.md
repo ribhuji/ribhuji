@@ -5,7 +5,7 @@
 
 - All of my projects are available at [ribhuratnam.me](https://www.ribhuratnam.me)
 
-- You can ask me about **Node, MongoDB**
+- You can ask me about **Node, MongoDB, React, Next, Electron, PostgreSQL**
 
 - E-mail me at **ribhuratnam@outlook.com**
 
