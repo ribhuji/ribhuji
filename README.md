@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋 ,I'm Ribhu </h1>
 <h3 align="left">a backend developer from India</h3>
 
-- I’m currently working on [delete-null](https://github.com/ribhuji/deleteNull)
+- I’m currently working on [ScreenGrab](https://github.com/ribhuji/ScreenGrab)
 
 - All of my projects are available at [ribhuratnam.me](https://www.ribhuratnam.me)
 
