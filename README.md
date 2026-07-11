@@ -3,4 +3,4 @@
 
 - I’m currently learning NN
 
-- E-mail me at **ribhu@ribhu.in*
+- E-mail me at **ribhu@ribhu.in**
